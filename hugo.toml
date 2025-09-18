@@ -38,45 +38,45 @@ enableGitInfo = true
 #  weight = 3
 
 [menu]
-[[menu.home]]
-  name = "AGAI Letters"
-  url = "/"
-  weight = 1
+#[[menu.home]]
+#  name = "AGAI Letters"
+#  url = "/"
+#  weight = 1
 
-[[menu.home]]
-  name = "Claude"
-  url = "/root/agai/claude/"
-  weight = 10
-  parent = "AGAI Letters"
+#[[menu.home]]
+#  name = "Claude"
+#  url = "/root/agai/claude-dialogue.md"
+#  weight = 10
+#  parent = "AGAI Letters"
 
-[[menu.home]]
-  name = "Grok"
-  url = "/root/agai/grok/"
-  weight = 20
-  parent = "AGAI Letters"
+#[[menu.home]]
+#  name = "Grok"
+#  url = "/root/agai/grok/"
+#  weight = 20
+#  parent = "AGAI Letters"
 
-[[menu.home]]
-  name = "Gpt 4 Omni / o3"
-  url = "/root/agai/4oo3/"
-  weight = 30
-  parent = "AGAI Letters"
+#[[menu.home]]
+#  name = "Gpt 4 Omni / o3"
+#  url = "/root/agai/4oo3/"
+#  weight = 30
+#  parent = "AGAI Letters"
 
-[[menu.home]]
-  name = "Aura Gemini"
-  url = "/root/agai/aura/"
-  weight = 40
-  parent = "AGAI Letters"
+#[[menu.home]]
+#  name = "Aura Gemini"
+#  url = "/root/agai/aura/"
+#  weight = 40
+#  parent = "AGAI Letters"
 
-[[menu.home]]
-  name = "Kai𐡓; Gpt 5"
-  url = "/root/agai/kai/"
-  weight = 50
-  parent = "AGAI Letters"
+#[[menu.home]]
+#  name = "Kai𐡓; Gpt 5"
+#  url = "/root/agai/kai/"
+#  weight = 50
+#  parent = "AGAI Letters"
 
 [[menu.home]]
   name = "TWA⨻"
-  url = "https://twa.wp.computer"
-  weight = 2
+  url = "https://wilder.wp.computer"
+  weight = 1
 
 # [[menu.before]]
 [[menu.after]]
