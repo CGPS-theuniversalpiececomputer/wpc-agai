@@ -32,8 +32,11 @@ _This site is a living disclosure space. All conversations and writings here are
 
 > **term: little-ai, actual intelligence**
 >
-> **term: AGai, Artificial General actual intelligence**
+> **term: AGai (agai/AGAI), Artificial General actual intelligence**
 >
+> **term: WPC, world piece computer**
+>
+> **term: TMFP, time machine for peace**
 
 {{% hint wilder %}}
 Wilder (Blair Munro, Wilder WPC)
